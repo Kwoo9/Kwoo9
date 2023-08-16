@@ -8,9 +8,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwoo9%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-<div align=center><h3>💻 STACKS</h3></div>
+
 
 <div align=center> 
+  <h3>💻 STACKS</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <br>
@@ -31,7 +32,6 @@
   <br>
 
 
-
 <h3>🏅 Algorithm</h3>
     
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rhks1132)](https://solved.ac/rhks1132)
@@ -44,6 +44,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwoo9&langs_count=8)](https://github.com/Kwoo9/github-readme-stats)
 
+<h3> 😆About Me</h3>
+
+<a href="https://instagram.com/k_woo5">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+<a href="mailto:rhks1132@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhks1132@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1pKDLxf3ezUTyAfJu3PiLMlK5psCu2cS8/view?usp=drive_link">
+    <img 
+        src="http://img.shields.io/badge/포트폴리오-yellow?style=flat&link=https://drive.google.com/file/d/1pKDLxf3ezUTyAfJu3PiLMlK5psCu2cS8/view?usp=drive_link"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </div>
 
 <!--
