@@ -56,9 +56,12 @@
 
 <a href="https://drive.google.com/file/d/1pKDLxf3ezUTyAfJu3PiLMlK5psCu2cS8/view?usp=drive_link">
     <img 
-        src="http://img.shields.io/badge/포트폴리오-yellow?style=flat&link=https://drive.google.com/file/d/1pKDLxf3ezUTyAfJu3PiLMlK5psCu2cS8/view?usp=drive_link"
+        src="http://img.shields.io/badge/포트폴리오-4285F4?style=flat&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1pKDLxf3ezUTyAfJu3PiLMlK5psCu2cS8/view?usp=drive_link"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </div>
+
+
+
 
 <!--
 **Kwoo9/Kwoo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
