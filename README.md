@@ -52,12 +52,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1pBsk0jy-0Fa8qJw2kA3Xk7TojbZGw5zI/view?usp=share_link">
+<a href="https://drive.google.com/file/d/10mldgoTZ4q9EfeIIE3Q7QUc-uzI0XNUe/view?usp=drive_link">
     <img 
         src="http://img.shields.io/badge/포트폴리오-4285F4?style=flat&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/10mldgoTZ4q9EfeIIE3Q7QUc-uzI0XNUe/view?usp=drive_link"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </div>
-
 
 
 
